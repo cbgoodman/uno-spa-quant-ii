@@ -12,3 +12,7 @@ Code Block
 ```
 
 ### Something Else
+
+$$
+Math Block
+$$
