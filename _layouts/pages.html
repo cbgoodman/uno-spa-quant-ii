@@ -1,14 +1,14 @@
 {% include head.html %}
 <body class="lesson">
-<div class="container card">
-{% include nav.html %}
-</div>
-<div class="content">
-	<h1>{{ page.title }}</h1>
-	{{ content }}
-</div>
+	<div class="container card">
+		<div class="banner">
+			{% include nav.html %}
+		</div>
+	<div class="content">
+		<h1>{{ page.title }}</h1>
+		{{ content }}
+	</div>
 	
-	
-{% include footer.html %}
-</div>
+	{% include footer.html %}
+	</div>
 {% include foot.html %}
