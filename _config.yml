@@ -4,8 +4,6 @@ username: cbgoodman
 repo: uno-spa-quant-ii
 
 encoding: utf-8
-markdown: kramdown
-highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
