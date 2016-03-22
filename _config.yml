@@ -1,2 +1,11 @@
 name: SPA Quant II
-markdown: kramdown
+
+username: cbgoodman
+repo: uno-spa-quant-ii
+
+markdown: pandoc
+markdown_ext: markdown,md
+pandoc:
+  extensions: 
+    - smart
+    - mathjax
