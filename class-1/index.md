@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Class 1
-permalink: /index.html
+permalink: uno-spa-quant-ii/class-1/index.html
 ---
 
 ## Topics 
