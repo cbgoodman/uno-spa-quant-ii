@@ -7,9 +7,16 @@ title: Class 1
 
 Inline code example `Code Block`
 
-~~~
-Code Block
-~~~
+#### Writing a simple C Program
+
+```c
+
+#include <stdio.h>
+int main(){
+ printf("Hello Drone\n");
+ return 0;
+}
+```
 
 ### Something Else
 
