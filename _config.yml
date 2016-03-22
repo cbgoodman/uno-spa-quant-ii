@@ -10,4 +10,3 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
   hard_wrap: false
-syntax_highlighter: rouge
