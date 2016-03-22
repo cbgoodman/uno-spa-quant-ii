@@ -5,6 +5,6 @@ title: Class 1
 
 ## Topics 
 
-~~~~~~~
+~~~~~
 Code Block
-~~~~~~~~
+~~~~~
