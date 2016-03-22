@@ -1,1 +1,32 @@
+  p,ul,ol,li,pre,code {
+    font-size: 8pt;
+    line-height: 9pt;
+  }
 
+  code {
+    padding: 0px;
+    border: 0px;
+    background: unset;
+  }
+
+  pre.sourceCode::before,
+  pre.input::before. {
+      content: "Input:";
+  }
+
+  pre.output::before {
+      content: "Output:";
+  }
+
+  pre.error::before {
+      content: "Error:";
+  }
+
+  pre.sourceCode code,
+  pre.input code,
+  pre.output code,
+  pre.error code {
+      display: block;
+      margin-top: 1em;
+      margin-left: 2em;
+  }
