@@ -1,3 +1,4 @@
+/* General Structure */
 body.workshop, body.lesson {
 	background-color: #BEC3C6;
 	margin: 20px 0;
@@ -36,6 +37,18 @@ div.footer {
 	margin: 0px;
 	padding: 0;
 	border-top: 1px solid #A6A6A6;
+}
+
+/* Header and Footer Menus */
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
 }
 
 /* Printing */
