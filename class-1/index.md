@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: Class 1
-permalink: class-1/index.html
+permalink: /class-1/index.html
 ---
 
 ## Topics 
