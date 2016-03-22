@@ -7,9 +7,9 @@ title: Class 1
 
 Inline code example `Code Block`
 
-```
+{% highlight %}
 Code Block
-```
+{% endhighlight %}
 
 ### Something Else
 
