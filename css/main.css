@@ -16,7 +16,7 @@ div.banner {
 	max-width: 1000px;
 	height: 90px;
 	margin: 0px;
-	padding: 0;
+	padding: 10px;
 	border-bottom: 1px solid #A6A6A6;
 }
 
@@ -39,7 +39,7 @@ div.footer {
 	border-top: 1px solid #A6A6A6;
 }
 
-/* Header and Footer Menus */
+/* Footer Menu */
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 10px;
@@ -49,6 +49,64 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+/* Header Sizes */
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+}
+
+h1, h2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+h1.title {
+    margin: 40px 0px;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit;
+}
+
+h2 code, h3 code, h4 code, h5 code, h6 code {
+    font-size: inherit;
+}
+
+/* Code Boxes */
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #333;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 
 /* Printing */
 @media print {
@@ -122,36 +180,4 @@ nav ul li, footer ul li {
   .footer {
     display: none;
   }
-}
-
-pre {
-  display: block;
-  padding: 9.5px;
-  margin: 0 0 10px;
-  font-size: 13px;
-  line-height: 1.42857143;
-  color: #333;
-  word-break: break-all;
-  word-wrap: break-word;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-pre code {
-  padding: 0;
-  font-size: inherit;
-  color: inherit;
-  white-space: pre-wrap;
-  background-color: transparent;
-  border-radius: 0;
-}
-.pre-scrollable {
-  max-height: 340px;
-  overflow-y: scroll;
-}
-.container {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
 }
