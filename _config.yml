@@ -3,8 +3,10 @@ name: SPA Quant II
 username: cbgoodman
 repo: uno-spa-quant-ii
 
-encoding: utf-8
+markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
+  auto_ids: true
+  syntax_highlighting: rouge
+
+highlighter: rouge
