@@ -3,8 +3,10 @@ name: SPA Quant II
 username: cbgoodman
 repo: uno-spa-quant-ii
 
-markdown:    kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
