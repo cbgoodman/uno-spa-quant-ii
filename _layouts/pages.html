@@ -1,31 +1,9 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
- 			<link rel="stylesheet" type="text/css" href="/uno-spa-quant-ii/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/uno-spa-quant-ii/">Home</a></li>
-		        	<li><a href="/uno-spa-quant-ii/books">Books</a></li>
-	        		<li><a href="/uno-spa-quant-ii/syllabus">Syllabus</a></li>
-	        		<li><a href="/uno-spa-quant-ii/class">Classwork</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-		
-			<h1>{{ page.title }}</h1>
+{% include head.html %}
 			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><font color="#999"></font>cbgoodman AT unomaha DOT edu</font></li>
-	        		<li><a href="https://github.com/cbgoodman/uno-spa-quant-ii">Class Repository</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+{% include nav.html %}
+	<h1>{{ page.title }}</h1>
+	{{ content }}
+	
+{% include footer.html %}
+
+{% include foot.html %}
