@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: Class 1
+permalink: /index.html
 ---
 
 ## Topics 
