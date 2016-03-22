@@ -7,3 +7,7 @@ encoding:     "utf-8"
 
 markdown:    kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
+highlighter: rouge
