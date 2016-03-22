@@ -5,8 +5,7 @@ title: Class 1
 
 ## Topics 
 
-
-  Code Block
+    Code Block
 
 
 ### Something Else
