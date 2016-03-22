@@ -1,13 +1,12 @@
 /* General Structure */
 body.workshop, body.lesson {
 	background-color: #BEC3C6;
-	margin: 20px 0;
 }
 
 div.container.card {
 	background-color: white;
 	max-width: 1000px;
-    margin: auto;
+    	margin: auto;
 }
 
 div.banner {
