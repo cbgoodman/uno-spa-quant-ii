@@ -3,7 +3,7 @@ name: SPA Quant II
 username: cbgoodman
 repo: uno-spa-quant-ii
 
-markdown:    kramdown
-highlighter: rouge
 encoding:     "utf-8"
+
+markdown:    kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
