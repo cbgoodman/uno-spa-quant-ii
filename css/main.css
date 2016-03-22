@@ -16,23 +16,3 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-
-.highlight pre {
-    padding: 0;
-    background-color: transparent;
-    border: 0;
-    border-radius: 0;
-}
-.highlight .table-responsive,
-.highlight pre,
-.highlight .table>tbody>tr>td
-{
-  border: 0;
-}
-.highlight .table-responsive {
-    margin-bottom: 0;
-}
-.highlight .table>tbody>tr>td {
-    padding: 8px 8px 0 8px;
-}
