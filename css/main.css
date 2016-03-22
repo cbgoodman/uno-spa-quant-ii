@@ -6,8 +6,7 @@ body.workshop, body.lesson {
 div.container.card {
 	background-color: white;
 	max-width: 1000px;
-	margin: 0px;
-	padding: 10px;
+	margin:auto;
 }
 
 div.banner {
@@ -24,9 +23,7 @@ div.content {
 	background-color: white;
 	width: 100%;
 	max-width: 1000px;
-    	padding-right: 10%;
-    	padding-left: 10%;
-	padding: 0;
+	padding: 10px;
 	clear:both;
 }
 
