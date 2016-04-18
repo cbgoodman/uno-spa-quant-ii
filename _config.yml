@@ -20,10 +20,8 @@ quant_twitter     : "http://twitter.com/cbgoodman"
 #--------------------------------------------------------------------------------
 # markdown language
 #--------------------------------------------------------------------------------
-markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighting: rouge
-
-highlighter: rouge
+markdown        : kramdown
+kramdown        :
+  entity_output : as_input # &mdash; is output as &mdash;
+  smart_quotes  : [39, 39, 34, 34] # decimal for left/right single/double quotes
+exclude         : [tools]
