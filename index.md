@@ -12,8 +12,6 @@ startdate: 2017-01-01      # use YYYY-MM-DD format like 2015-01-01
 enddate: 2017-05-01        # use YYYY-MM-DD format like 2015-01-02
 instructor: ["Chris Goodman"] # list of names like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 contact: "cbgoodman@unomaha.edu"      # contact email address for workshop organizer, such as "grace@hopper.org"
-
-title: SPA Quant II
 ---
 
 # Welcome to Quant II
