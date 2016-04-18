@@ -13,6 +13,7 @@ username: cbgoodman
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
 contact           : "cbgoodman@unomaha.edu"
+quant_site        : "http://spa.unomaha.edu"
 quant_github      : "http://github.com/cbgoodman/uno-spa-quant-ii"
 quant_githubio    : "http://cbgoodman.github.io/uno-spa-quant-ii"
 quant_twitter     : "http://twitter.com/cbgoodman"
