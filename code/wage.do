@@ -6,4 +6,9 @@
 clear all
 set more off
 
-use "
+* Load in Wooldridge wage data
+use "https://github.com/cbgoodman/uno-spa-quant-ii/blob/master/data/wage1.dta?raw=true"
+
+* Construct simple wage regression
+reg lwage educ exper expersq tenure tenursq
+estat hettest
