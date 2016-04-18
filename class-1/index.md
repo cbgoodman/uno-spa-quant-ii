@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: Class 1
 permalink: /class-1/index.html
 ---
