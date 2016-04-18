@@ -2,7 +2,7 @@
 layout: page
 title: Class 1
 permalink: /class-1/index.html
-root: ../               # DON'T CHANGE THIS.
+root: ./../               # DON'T CHANGE THIS.
 ---
 
 ## Topics 
