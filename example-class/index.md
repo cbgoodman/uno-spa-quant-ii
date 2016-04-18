@@ -7,6 +7,7 @@ venue: "Quantitative Analysis II"        # brief name of host site without addre
 
 ## Example Class
 Follow the link below the gain access to data for this module.
+
 `{{site.quant_github}}/data/wage.dta?raw=true`
 
 ```
