@@ -14,7 +14,7 @@ instructor: ["Chris Goodman"] # list of names like ["Kay McNulty", "Betty Jennin
 contact: "cbgoodman@unomaha.edu"      # contact email address for workshop organizer, such as "grace@hopper.org"
 ---
 
-# Welcome to Quant II
+## Welcome to Quant II
 We'll be using this website to coordinate the data files and code for use in this course. It will primarily be Stata .dta and .do files; however, we'll also be utilizing R for some operations.
 	
 ### How to Use this Website
