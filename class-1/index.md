@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /class-1/index.html
+root: .
 ---
 
 ## Topics 
