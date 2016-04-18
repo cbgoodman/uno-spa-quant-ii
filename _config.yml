@@ -5,11 +5,6 @@ workshop_repo   : "https://github.com/cbgoodman/uno-spa-quant-ii"
 workshop_site   : "http://cbgoodman.github.io/uno-spa-quant-ii"
 
 #--------------------------------------------------------------------------------
-# owner
-#--------------------------------------------------------------------------------
-name: SPA Quant II
-username: cbgoodman
-#--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
 contact           : "cbgoodman@unomaha.edu"
