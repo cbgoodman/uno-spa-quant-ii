@@ -7,4 +7,4 @@ venue: "Quantitative Analysis II"        # brief name of host site without addre
 
 ## Example Class
 
-  {{site.quant_github}}/data/wage.dta
+`{{site.quant_github}}/data/wage.dta`
